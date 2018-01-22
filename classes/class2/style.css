@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+    
+}
+
+
+h1 {
+    font-size: 18px;
+    background-color: red;
+}
+
+p {
+   color: rebeccapurple; 
+    
+}
+
+.purple_paragraph {
+ background: purple;   
+    
+}
+
+#inspirational_message {
+    font-size: 36px;
+    
+}
