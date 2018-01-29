@@ -40,7 +40,7 @@ You will accomplish these goals through seminars and workshops in:
 
 ## Grading
 
-### Attendance & Participation (20%)
+### Attendance & Participation (15%)
 
 Attendance in the class is mandatory. If you are unable to attend class please notify me in advance and we can make alternative arrangements if necessary. This is an interactive class, not a lecture and it is important you be present. Please come to class prepared. Students are expected to be in charge of their own learning, to contribute to a vibrant learning community, and to respect each other. A diversity of backgrounds and perspectives are encouraged. Cooperation and mutual learning are a priority.
 
@@ -48,7 +48,7 @@ Attendance in the class is mandatory. If you are unable to attend class please n
 
 There will be small workshop assignments throughout the semester. Typically these assignments will begin in class during the hands-on tutorial session. You will have to complete these assignments outside of class. The purpose of the in class session is to get you started and to address any initial questions that you have. Workshops are intended to combine technical knowledge with creative expression.
 
-### Projects (40%)
+### Projects (45%)
 
 There will be 3 projects for this class, each due at the end of a module, and each progressively more involved. The first project is to build a website for your class assignments and projects with HTML and CSS. The second project is to build a branching narrative ("Choose Your Own Adventure"-style) game or story. Alternatively, you may create an *Internet Yama-ichi* style project by selecting something not presently online (an object, a concept, a place, etc) and presenting it online on its own website. For the final project you will work in a team to conceptualize, design and build a website for a creative interactive web project of your choice.
 ￼￼￼￼￼￼￼
