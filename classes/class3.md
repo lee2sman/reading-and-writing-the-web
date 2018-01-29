@@ -5,7 +5,9 @@
 	* grading update
 * FTP
 * Fonts!
-  * Web-fonts, Google fonts and uploading fonts
+  * Web-fonts
+  * Google fonts
+  * [uploading fonts](https://www.w3schools.com/css/css3_fonts.asp)
 * Working with the DOM / css selectors review
 * [Display block!](https://www.w3schools.com/CSSref/pr_class_display.asp) - Inline vs block vs in-line block
 * Bad Website Jam
