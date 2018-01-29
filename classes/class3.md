@@ -5,8 +5,8 @@
 	* grading update
 * FTP
 * Fonts!
-  * Web-fonts
-  * Google fonts
+  * [Websafe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
+  * [Google fonts](https://fonts.google.com/)
   * [uploading fonts](https://www.w3schools.com/css/css3_fonts.asp)
 * Working with the DOM / css selectors review
 * [Display block!](https://www.w3schools.com/CSSref/pr_class_display.asp) - Inline vs block vs in-line block
