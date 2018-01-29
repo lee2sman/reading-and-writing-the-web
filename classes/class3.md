@@ -14,5 +14,6 @@
 
 
 # Homework
-* Upload your class website && First Journal reaction to last week's article + this week's article
-* Read [The Follower Factory](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html)
+* Review the [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+* Upload your class website && First Journal reaction to last week's article
+* Read [The Follower Factory](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html) and write a 2nd journal reaction to the article
