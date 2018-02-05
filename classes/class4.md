@@ -31,3 +31,9 @@
 * Take a screengrab of each of these sites and place these on the page
 * For 3 of them, write a paragraph.What do you like about them? Describe the design, useability, what do you find compelling, etc...
 * For 1 website - pick one site that you think doesn't work. What doesn't work about the design, useability or other areas? How could it be improved?
+
+## Additional resources
+* [Fullscreen and halfscreen Background Images](https://www.w3schools.com/howto/howto_css_full_page.asp)
+* CSS display: [inline vs inline-block](https://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block)
+* CSS layout - [The display property](https://www.w3schools.com/css/css_display_visibility.asp)
+* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
