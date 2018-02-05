@@ -18,4 +18,4 @@
 * [CSS Hover States](https://jay-manday.github.io/hover-states/index.html)
 
 ## Project 1 due next week!
-*[Info](../projects/project1.md)
+* [Info](/projects/project1.md)
