@@ -18,4 +18,11 @@
 * [CSS Hover States](https://jay-manday.github.io/hover-states/index.html)
 
 ## Project 1 due next week!
-* [Info](/blob/master/projects/project1.md)
+* [Info](https://github.com/lee2sman/reading-and-wrting-the-web/blob/master/projects/project1.md)
+
+## +1 Assignment - Compelling design
+* Add a page to your class site
+* Pick 4 websites to write about *that you find compelling*.
+* Take a screengrab of each of these sites and place these on the page
+* For 3 of them, write a paragraph.What do you like about them? Describe the design, useability, what do you find compelling, etc...
+* For 1 website - pick one site that you think doesn't work. What doesn't work about the design, useability or other areas? How could it be improved?
