@@ -13,6 +13,7 @@
 * Check-in in pairs - give feedback on class site
 
 # Resources
+* [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [CSS Examples](https://www.w3schools.com/css/css_examples.asp)
 * [CSS Reference](https://www.w3schools.com/cssref/default.asp)
 
