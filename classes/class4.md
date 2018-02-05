@@ -12,6 +12,10 @@
 * Project 1 (class site) due next Monday 2/12!
 * Check-in in pairs - give feedback on class site
 
+# Resources
+* [CSS Examples](https://www.w3schools.com/css/css_examples.asp)
+* [CSS Reference](https://www.w3schools.com/cssref/default.asp)
+
 ## Homework
 * Review [CSS for layouts](http://learnlayout.com)
 * Read [5 minute guide to typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
