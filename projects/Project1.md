@@ -24,7 +24,6 @@
   * is it coded well?
   * Does the file structure work?
 
-* Add a page - Pick 4 websites to write about.
-	* Take a screengrab and place these on the page
-	* For 3 of them, write a paragraph.What do you like about them? Describe the design, useability, what do you find compelling, etc...
-	* For 1 website - pick one site that you think doesn't work. What doesn't work about the design, useability or other areas? How could it be improved?
+Show your site to friends, family, and especially those who may be less web-savvy. What do they like about the site? Where do they stumble? Observe them using their site and notice how they navigate it. 
+
+We will review together in a critique Monday.
