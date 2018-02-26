@@ -43,3 +43,6 @@ For this project you will create a hyperlinked narrative project with HTML, CSS 
 * Code should work! All links should function. All CSS must be applied. Navigation should be clear.
 * Media (images, sound, video) should be used when appropriate. 
 * The design (fonts, color, placement, sizes, etc) should be compelling and fit the concept.
+
+# Additional Research Resource
+* Rhizome's [Artbase](https://anthology.rhizome.org)
