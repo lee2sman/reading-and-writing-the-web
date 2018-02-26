@@ -1,6 +1,6 @@
 # Class 6
 
-* Check-in on prototype of Project 2
+* Check-in on prototype of [Project 2](/projects/Project2.md)
 * Design Document continued
 * Wireframing
     * [Sketch](https://www.sketchapp.com/)
