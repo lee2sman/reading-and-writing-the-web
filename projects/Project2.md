@@ -1,6 +1,7 @@
 # Branching Narrative
 
-Due: 3/5
+in-progress due: 3/5
+Due: 3/19
 
 # Branching Narrative
 
@@ -24,3 +25,19 @@ For this project you will create a hyperlinked narrative project with HTML, CSS 
 3. Plan out the project with a sitemap and wireframing. What are the technical parts underlying your site? What styling will you use? What scripting will you need to include?
 
 4. Build a draft version of your site. Make sure to do iterative testing as you build it to ensure its functionality. Do user testing and get feedback and make refinements.
+
+# Requirements
+
+# WARM-UP - due 3/5
+* What is your Design Concept?
+* Draw/sketch a simple sitemap (flowchart)
+* Wireframe your landing page
+
+# FINAL ASSIGNMENT - due 3/19
+* The story or branching narrative should have a clear and compelling concept that fits this choice of medium
+* A clear landing/start page
+* Info/Help/About or other clear instructions. This can be on the home page or another separate page.
+* Your site should have at least 12 pages and at least 3 *endings* (which can be broadly defined. They don't have to be a traditional ending)
+* Code should work! All links should function. All CSS must be applied. Navigation should be clear.
+* Media (images, sound, video) should be used when appropriate. 
+* The design (fonts, color, placement, sizes, etc) should be compelling and fit the concept.
