@@ -17,5 +17,4 @@
 * [Lorem Ipsum](http://generator.lorem-ipsum.info/)
 
 # Homework
-* finish project 2.
-* Have it uploaded and email by day 3/5
+* Project 2 warmup is due
