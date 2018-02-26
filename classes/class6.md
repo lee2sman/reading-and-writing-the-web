@@ -10,6 +10,7 @@
     * your own Notebook
 * Mockup
 * Layout
+* [Example code](/classes/branching/)
 
 # Resources
 
