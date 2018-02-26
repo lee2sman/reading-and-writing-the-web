@@ -32,6 +32,8 @@ For this project you will create a hyperlinked narrative project with HTML, CSS 
 * What is your Design Concept?
 * Draw/sketch a simple sitemap (flowchart)
 * Wireframe your landing page
+* Landing page prototype ready for feedback
+* 1 - 2 other working pages ready for feedback
 
 # FINAL ASSIGNMENT - due 3/19
 * The story or branching narrative should have a clear and compelling concept that fits this choice of medium
