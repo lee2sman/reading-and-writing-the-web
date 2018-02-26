@@ -5,7 +5,7 @@
 	* animation
 	* shapes
 	* See example CSS animation file
-3. Introduce [Project 2](../projects/project2.md)
+3. Introduce [Project 2](/projects/Project2.md)
 	* Branching Narrative (e.g. "Choose Your Own Adventure")
 
 # Branching Narrative
