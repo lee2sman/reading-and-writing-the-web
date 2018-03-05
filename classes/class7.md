@@ -8,6 +8,7 @@
 	* 1 - 2 other working pages ready for feedback
 * Intro to Interaction with Jquery
 	* [slides](/slides/jquery.pdf)
+	* [slides](/slides/jquery.key)
 * Code examples
 	* [here](/classes/class7_code/jQuery_code)
 
