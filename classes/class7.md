@@ -9,6 +9,7 @@
 * Intro to Interaction with Jquery
 	* [slides](/slides/jquery.pdf)
 * Code examples
+	* [here](/classes/class7_code/jQuery_code)
 
 # Homework
 * Finish [Project 2](/projects/Project2.md) 
