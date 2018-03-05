@@ -1,0 +1,9 @@
+p {
+    font-size: 1.3em;
+}
+
+#myButton {
+  padding: 5px;
+  background: yellow;
+  cursor: pointer;
+}
