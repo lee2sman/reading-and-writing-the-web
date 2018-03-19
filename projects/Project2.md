@@ -49,11 +49,23 @@ For this project you will create a hyperlinked narrative project with HTML, CSS 
 
 # Student works
 
+* Aamir
+* Asha
+* Bailey
+* Ashton
+* Devon
 * [Emily](http://storm.usc.edu/~emilywin/iml300/branch/branch1/branch1.html)
 * [Eumin](http://storm.usc.edu/~euminlee/Assignment_5/)
+* Jamie
+* Malin
+* Krupa
 * [Matt](http://storm.usc.edu/~mhanisch/twine/landing_page/)
+* Mike
+* Remi
 * [Sandria](http://storm.usc.edu/~sandriat/story.html)
 * [Ruby](http://storm.usc.edu/~kaidiyua/USCVillage/Home.html)
 * [Sophie](http://storm.usc.edu/~kyoungyk/sophie/project_htmls/project2.html)
-* [Timothy](http://storm.usc.edu/~timothrs/Connectivity/)
+* Sophia
+* [Tim](http://storm.usc.edu/~timothrs/Connectivity/)
+* William
 
