@@ -51,9 +51,10 @@ For this project you will create a hyperlinked narrative project with HTML, CSS 
 
 * Aamir
 * Asha
-* Bailey
-* Ashton
-* Devon
+* [Bailey](http://storm.usc.edu/~baileyla/assignments/BranchingNarrative.html)
+* [Billy](http://storm.usc.edu/~wbjork/people.html)
+* [Ashton](http://storm.usc.edu/~ashtontu/twine_game/home.html)
+* [Devon](http://storm.usc.edu/~dgadzins/twineSite/index.html)
 * [Emily](http://storm.usc.edu/~emilywin/iml300/branch/branch1/branch1.html)
 * [Eumin](http://storm.usc.edu/~euminlee/Assignment_5/)
 * Jamie
@@ -61,11 +62,10 @@ For this project you will create a hyperlinked narrative project with HTML, CSS 
 * Krupa
 * [Matt](http://storm.usc.edu/~mhanisch/twine/landing_page/)
 * Mike
-* Remi
+* [Remi](http://storm.usc.edu/~rwedin/project2/index.html)
 * [Sandria](http://storm.usc.edu/~sandriat/story.html)
 * [Ruby](http://storm.usc.edu/~kaidiyua/USCVillage/Home.html)
 * [Sophie](http://storm.usc.edu/~kyoungyk/sophie/project_htmls/project2.html)
 * Sophia
 * [Tim](http://storm.usc.edu/~timothrs/Connectivity/)
-* William
 
