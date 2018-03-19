@@ -46,3 +46,14 @@ For this project you will create a hyperlinked narrative project with HTML, CSS 
 
 # Additional Research Resource
 * Rhizome's [Artbase](https://anthology.rhizome.org)
+
+# Student works
+
+* [Emily](http://storm.usc.edu/~emilywin/iml300/branch/branch1/branch1.html)
+* [Eumin](http://storm.usc.edu/~euminlee/Assignment_5/)
+* [Matt](http://storm.usc.edu/~mhanisch/twine/landing_page/)
+* [Sandria](http://storm.usc.edu/~sandriat/story.html)
+* [Ruby](http://storm.usc.edu/~kaidiyua/USCVillage/Home.html)
+* [Sophie](http://storm.usc.edu/~kyoungyk/sophie/project_htmls/project2.html)
+* [Timothy](http://storm.usc.edu/~timothrs/Connectivity/)
+
