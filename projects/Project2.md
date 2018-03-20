@@ -49,7 +49,7 @@ For this project you will create a hyperlinked narrative project with HTML, CSS 
 
 # Student works
 
-* Aamir
+* [Aamir](http://storm.usc.edu/~khuller/surveillance/surveillancemaster.html)
 * [Asha](storm.usc.edu/~asharao/project2.html)
 * [Bailey](http://storm.usc.edu/~baileyla/assignments/BranchingNarrative.html)
 * [Billy](http://storm.usc.edu/~wbjork/people.html)
