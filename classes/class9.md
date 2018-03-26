@@ -27,6 +27,6 @@
 	* Make use of jQuery [events](https://www.w3schools.com/jquery/jquery_events.asp)!
 * Listen to Reply All podcast [episode](https://www.gimletmedia.com/reply-all/34-dmv-nation) on Goverment Agency Websites or [episode](https://www.gimletmedia.com/reply-all/long-distance) on attempting to befriend a long-discance scammer
 * Pick presentation topic for 10 minute presentation on 4/16
-	* [Assignment](presentations.md) page
+	* [Assignment](../projects/presentations.md) page
 	* Write your topic concept and 1 paragraph description of what you'll be presenting on
 	* List 5 resources you'll be consulting, including videos, articles, 
