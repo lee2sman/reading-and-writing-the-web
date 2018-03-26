@@ -25,7 +25,9 @@
 # Homework
 * Finish assignment on transformational/covert websites
 	* Make use of jQuery [events](https://www.w3schools.com/jquery/jquery_events.asp)!
+	* Make a page on your class website and link to the assignment.
 * Listen to Reply All podcast [episode](https://www.gimletmedia.com/reply-all/34-dmv-nation) on Goverment Agency Websites or [episode](https://www.gimletmedia.com/reply-all/long-distance) on attempting to befriend a long-discance scammer
+	* Write a very short review or other thoughts on the episode
 * Pick presentation topic for 10 minute presentation on 4/16
 	* [Assignment](../projects/presentations.md) page
 	* Write your topic concept and 1 paragraph description of what you'll be presenting on
