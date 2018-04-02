@@ -23,10 +23,7 @@
 # Responsive design
 * [slides](../slides/responsive_design.pdf)
 
-# Final Assignment
-* 
-
 # Homework
 * Read CSS Responsive Design [tutorial](https://www.w3schools.com/css/css_rwd_intro.asp)
-* Introduce additional playful/subversive experiences to your site
 * Make your Subversive site responsive
+* Choose partner and begin design doc
