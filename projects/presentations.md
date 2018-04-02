@@ -17,20 +17,20 @@
 
 ## Presentations to be held on 4/16
 
-# Possible Topics
-
-* A history of Spam
-* A History of Cyberfeminism 
-* Race and the Internet 
-* Who Owns The Internet?
-* Worms, Viruses and Cyberwarfare 
-* The birth of 'social media'
-* Sex and the Internet - Audey
-* The infrastructure of the Deep Web
-* Open Source culture
-* Cybersecurity and cyberwarfare
-* Social Media and Social Status
-* Death and the Internet, Digital Memorials, Digital Inheritance
-* Right to Be Forgotten 
-* Digital Personal Assistants and Problems of Gender
-* Political Unrest and Social Media
+# Topics!
+* Who Owns The Internet? - Billy
+* Videogame Online Subcultures: Rhetoric and influence - Sophia
+* Slacktivism Online - Devon
+* Worms, Viruses and Cyberwarfare - Matt
+* The Birth of Social Media - Sophia
+* The Right To Be Forgotten - Sophie
+* Social Media and Social Status - Bailey
+* Targeted Marketing - Eumin
+* Political Unrest and Social Media - Jamie
+* Open Source Cultures - Emily
+* Malin
+* Censorship and The Internet - Asha
+* Business and Social Media - Tim
+* A History of Cyberfeminism - Sandria
+* Race and the Internet - Ashton
+* Internet Addiction - Remi
