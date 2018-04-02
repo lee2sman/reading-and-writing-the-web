@@ -26,4 +26,4 @@
 # Homework
 * Read CSS Responsive Design [tutorial](https://www.w3schools.com/css/css_rwd_intro.asp)
 * Make your Subversive site responsive
-* Choose partner and begin design doc
+* Choose partner and create design doc
