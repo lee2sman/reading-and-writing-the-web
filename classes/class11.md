@@ -6,6 +6,7 @@ Just when you thought you were done with CSS....
 
 * Flexbox
 * CSS Grid
+* CSS Templates 
 * CSS Frameworks
 
 ## Flexbox
@@ -136,9 +137,20 @@ Grid gap sets column and row together. Specify two values for column, row - or a
 
 * [Templates](https://www.w3schools.com/csS/css_templates.asp) for basic pages with Floats, Flexbox and Grid
 
+# CSS Frameworks
+
+Frameworks are collections of CSS with classes, usually a grid system, colors, sizing, fonts, etc pre-defined. You use them by adding these predefined classes to your HTML page.
+
+* [Sakura](https://github.com/oxalorg/sakura) - a framework without classes. Specifies defaults for your html.
+* [W3CSS](https://www.w3schools.com/w3css/default.asp) - A simple framework from W3Schools.
+* [Bootstap](https://www.w3schools.com/bootstrap/default.asp) - An industry CSS framework. 
+* There are others!
+
+
 # Final Project in-class review
 
 # Homework
 * CSS Flexbox Froggy [tutorial/game](https://flexboxfroggy.com)
 * CSS Grid Garden [tutorial/game](http://cssgridgarden.com/)
+* Check-in with your partner - what changes to make? what do you need to learn/review to make your site?
 * Presentations next week!
