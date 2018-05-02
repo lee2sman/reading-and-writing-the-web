@@ -47,4 +47,6 @@ Your document should be put together as a single PDF file.
 * [Sandria and Jamie](http://storm.usc.edu/~sandriat/final-project2/index1.html)
 * [Ashton and Emily](http://storm.usc.edu/~ashtontu/dolab/home.html) 
 * [Tim and Billy](http://storm.usc.edu/~timothrs/Final_Project/final/index.html)
+* [Sophia and Devon](http://storm.usc.edu/~dgadzins/finalProject/reDesign/testindex.html)
+* [Sophia and Bailey](http://storm.usc.edu/~ketring/IML300)
 
