@@ -44,7 +44,7 @@ Your document should be put together as a single PDF file.
 * [Matt and Malin](http://storm.usc.edu/~mhanisch/final/IML300_Spy_Museum/Landing_Page/index.html)
 * [Remi and Asha](http://storm.usc.edu/~rwedin/final/index.html)
 * [Sophie and Ruby](http://storm.usc.edu/~kaidiyua/FinalProject3/FinalProject/index.html) 
-* [Sandria and Jamie](http://storm.usc.edu/~sandriat/final-project2/index1.html)
+* [Sandria and Jamie](http://storm.usc.edu/~sandriat/final-project2/index1.html) and [presentation](https://docs.google.com/presentation/d/11gxoNVeYbivbUQN8oL_hu2uLW5-y2WYK74kiuHcyUvY/edit#slide=id.p)
 * [Ashton and Emily](http://storm.usc.edu/~ashtontu/dolab/home.html) 
 * [Tim and Billy](http://storm.usc.edu/~timothrs/Final_Project/final/index.html)
 * [Sophia and Devon](http://storm.usc.edu/~dgadzins/finalProject/reDesign/testindex.html)
